@@ -1,4 +1,4 @@
-# 🍋 Optimizing Salt Dissolution in Water Using Response Surface Methodology
+# 💧 Optimizing Salt Dissolution in Water Using Response Surface Methodology
 
 ## 📌 Problem Statement
 
